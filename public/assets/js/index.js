@@ -183,4 +183,8 @@ if (window.location.pathname === '/notes') {
   noteText.addEventListener('keyup', handleRenderSaveBtn);
 }
 
+// Delete btn code
+
+
+
 getAndRenderNotes();
